@@ -11,4 +11,5 @@ while True:
         print(f'Pelanggan\t Member: \n {pel}\t {mem}')
 
     elif pil1 == 3:
+        print('Sistem Berhenti')
         break
